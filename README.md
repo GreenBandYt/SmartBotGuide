@@ -1,3 +1,21 @@
+# **Привет! Меня зовут Юрий** / <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/images/b_logo_g.png" width="25" alt="G" style="vertical-align: -2px;">reenBandYt
+
+<p>
+  <a href="https://github.com/GreenBandYt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/logos/zerocoder.png" width="28" height="28" alt="Zerocoder" style="vertical-align: middle; border-radius: 50%;">
+  <a href="https://zerocoder.ru/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge">
+  </a>
+</p>
+
+**Python-разработчик | Telegram-боты | Веб-приложения | Базы данных**  
+**"Зелёный код жизни" – код, который растёт вместе с тобой!**
+
+---
+
 # Как сделать Telegram-бота понятным и умным  
 **Автор: Юрий Бандура / GreenBandYt**
 
