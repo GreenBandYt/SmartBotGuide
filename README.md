@@ -6,7 +6,7 @@
   </a>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/GreenBandYt/GreenBandYt/main/assets/logos/zerocoder.png" width="28" height="28" alt="Zerocoder" style="vertical-align: middle; border-radius: 50%;">
-  <a href="https://zerocoder.ru/" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/GreenBandYt/Zerocoder/blob/main/README.md" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Zerocoder-Выпускник-%239B59B6?style=for-the-badge">
   </a>
 </p>
