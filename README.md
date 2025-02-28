@@ -132,13 +132,13 @@ async def start_guest(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 С уважением,  
 Юрий Бандура / GreenBandYt  
-*(при содействии ChatGPT)*
+
 
 ### 📬 Контакты
 
 - **Email:** [bandurayv@yandex.ru](mailto:bandurayv@yandex.ru)
 - **Telegram:** [@BandYuraV](https://t.me/BandYuraV)
-- *(При желании можно добавить ссылки на LinkedIn или другие соцсети)*
+
 
 ---
 
